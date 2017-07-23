@@ -56,7 +56,6 @@ public class Constants {
         static final String ID = "id";
         static final String DATE = "date";
         static final String MSG = "msg";
-        c
         static final String SENDER = "sender";
         static final String IS_SENT = "isSent";
         static final String IS_READ = "isRead";
